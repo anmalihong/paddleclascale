@@ -26,7 +26,7 @@ Transforms:
     - 0.225
 _Attributes:
   eval_metrics:
-    acc1: 0.9388888478279114
+    acc1: 0.9888889193534851
   fixed_input_shape:
   - -1
   - 3
