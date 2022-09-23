@@ -9,7 +9,7 @@ pipeline_nodes:
 - predict0:
     init_params:
       gpu_id: 0
-      model_dir: D:\Program Files (x86)\paddlex\paddlex_workspace\P0021-T0033_export_model\inference_model\inference_model
+      model_dir: D:\Program Files (x86)\paddlex\paddlex_workspace\P0022-T0034_export_model\inference_model\inference_model
       use_gpu: false
       use_trt: false
     next: sink0
